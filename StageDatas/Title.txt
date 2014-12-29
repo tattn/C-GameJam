@@ -1,0 +1,14 @@
+stage cols:14;
+stage rows:11;
+max wall num:3;
+              ;
+  r  v        ;
+ d            ;
+ h            ;
+ r  v         ;
+              ;
+              ;
+              ;
+              ;
+              ;
+              ;
